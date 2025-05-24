@@ -1,10 +1,8 @@
-# DropVault
+# DropVault - A Secure Personal File Storage 🔒
+**DropVault** is a modern, secure, and user-friendly web application for personal file storage. Effortlessly upload, manage, and access your files from anywhere, with privacy and security at the core.
+
 
 ![DropVault Homepage](assets/homepage.png)
-
-> **DropVault** is a modern, secure, and user-friendly web application for personal file storage. Effortlessly upload, manage, and access your files from anywhere, with privacy and security at the core.
-
----
 
 ## 🚀 Features
 
@@ -105,12 +103,19 @@ The production-ready files will be in the `dist/` directory.
 
 ---
 
-## 🙌 Contributing
+### 🤝 **Feedback and Contribution** 
 
-Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
+It is publicly open for any contribution. Bugfixes, new features, and extra modules are welcome.
+
+- To contribute to code: Fork the repo, push your changes to your fork, and submit a pull request.
+- To report a bug: If something does not work, please report it using [GitHub Issues](https://github.com/aman-chhetri/dropvault/issues).
 
 ---
+### 📬 **Connect**
 
-<p align="center">
-  <b>DropVault &mdash; Secure your files, simply.</b>
-</p> 
+- Email: chhetryaman3@gmail.com
+- Twitter: [@iamamanchhetri](https://twitter.com/iamamanchhetri) 
+- Website: [Portfolio](https://amankshetri.com.np)
+- LinkedIn: [@amankshetri](https://linkedin.com/in/amankshetri)
+
+<div align="center">© 2025 Aman Kshetri 👨‍💻</div>
