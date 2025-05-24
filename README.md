@@ -1,6 +1,6 @@
 # DropVault
 
-![DropVault Banner](https://user-images.githubusercontent.com/placeholder/banner.png)
+![DropVault Homepage](assets/homepage.png)
 
 > **DropVault** is a modern, secure, and user-friendly web application for personal file storage. Effortlessly upload, manage, and access your files from anywhere, with privacy and security at the core.
 
