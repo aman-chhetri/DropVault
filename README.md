@@ -41,8 +41,8 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/dropvault.git
-cd dropvault
+git clone https://github.com/your-username/DropVault.git
+cd DropVault
 ```
 
 ### 2. Install dependencies
@@ -108,7 +108,7 @@ The production-ready files will be in the `dist/` directory.
 It is publicly open for any contribution. Bugfixes, new features, and extra modules are welcome.
 
 - To contribute to code: Fork the repo, push your changes to your fork, and submit a pull request.
-- To report a bug: If something does not work, please report it using [GitHub Issues](https://github.com/aman-chhetri/dropvault/issues).
+- To report a bug: If something does not work, please report it using [GitHub Issues](https://github.com/aman-chhetri/DropVault/issues).
 
 ---
 ### 📬 **Connect**
