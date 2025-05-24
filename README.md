@@ -23,7 +23,7 @@ You can check out the deployed app here: [DropVault](https://dropvault.netlify.a
 <p align="center">
   <img src="assets/dashboard.png" alt="DropVault Dashboard" width="700" />
   <br>
-  <img src="assets/files.png" alt="File List" width="700" />
+  <img src="assets/files.png" alt="File Lists" width="700" />
   <br>
   <img src="assets/upload.png" alt="Upload Files" width="700" />
 </p>
