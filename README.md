@@ -4,6 +4,8 @@
 
 ![DropVault Homepage](assets/homepage.png)
 
+You can check out the deployed app here: [DropVault](https://dropvault.netlify.app/)
+
 ## 🚀 Features
 
 - **Secure Cloud Storage**: All files are encrypted and stored securely using [Supabase Storage](https://supabase.com/).
