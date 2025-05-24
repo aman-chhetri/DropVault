@@ -19,7 +19,7 @@
 ## 🖥️ Screenshots
 
 <p align="center">
-  <img src="assets/dashbaord.png" alt="DropVault Dashboard" width="700" />
+  <img src="assets/dashboard.png" alt="DropVault Dashboard" width="700" />
   <br>
   <img src="assets/files.png" alt="File List" width="700" />
   <br>
