@@ -19,11 +19,11 @@
 ## 🖥️ Screenshots
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/homepage.png" alt="DropVault Home" width="700" />
+  <img src="assets/dashbaord.png" alt="DropVault Dashboard" width="700" />
   <br>
-  <img src="https://user-images.githubusercontent.com/placeholder/files.png" alt="File List" width="700" />
+  <img src="assets/files.png" alt="File List" width="700" />
   <br>
-  <img src="https://user-images.githubusercontent.com/placeholder/upload.png" alt="Upload Files" width="700" />
+  <img src="assets/upload.png" alt="Upload Files" width="700" />
 </p>
 
 ---
