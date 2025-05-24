@@ -19,20 +19,11 @@
 ## 🖥️ Screenshots
 
 <p align="center">
-  <figure>
-    <figcaption><strong>1. DropVault Dashboard</strong></figcaption>
-    <img src="assets/dashboard.png" alt="DropVault Dashboard" width="700" />
-  </figure>
+  <img src="assets/dashboard.png" alt="DropVault Dashboard" width="700" />
   <br>
-  <figure>
-    <figcaption><strong>2. File List</strong></figcaption>
-    <img src="assets/files.png" alt="File List" width="700" />
-  </figure>
+  <img src="assets/files.png" alt="File List" width="700" />
   <br>
-  <figure>
-    <figcaption><strong>3. Upload Files</strong></figcaption>
-    <img src="assets/upload.png" alt="Upload Files" width="700" />
-  </figure>
+  <img src="assets/upload.png" alt="Upload Files" width="700" />
 </p>
 
 ---
