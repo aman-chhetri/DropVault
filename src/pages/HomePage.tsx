@@ -16,7 +16,7 @@ const HomePage: React.FC = () => {
     {
       icon: <Upload className="h-10 w-10 text-emerald-500" />,
       title: 'Easy Uploads',
-      description: 'Simply drag and drop your files to upload them to DropVault.',
+      description: 'Simply drag and drop your files to upload them to Vaultify.',
     },
     {
       icon: <FolderOpen className="h-10 w-10 text-emerald-500" />,
@@ -47,7 +47,7 @@ const HomePage: React.FC = () => {
               transition={{ delay: 0.2 }}
             >
               Secure Your Files with{' '}
-              <span className="text-emerald-600">DropVault</span>
+              <span className="text-emerald-600">Vaultify</span>
             </motion.h1>
             <motion.p 
               className="text-xl text-gray-600 max-w-3xl mx-auto"
@@ -104,7 +104,7 @@ const HomePage: React.FC = () => {
           >
             <h2 className="text-3xl font-bold mb-4">Ready to secure your files?</h2>
             <p className="text-slate-300 mb-8 max-w-2xl mx-auto">
-              Join thousands of users who trust DropVault with their important documents, 
+              Join thousands of users who trust Vaultify with their important documents, 
               photos, and files. Start your secure storage journey today.
             </p>
             <Link
